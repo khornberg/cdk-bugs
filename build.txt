@@ -1,0 +1,10 @@
+awscli>=1.16.218
+aws-cdk.core>=1.4.0
+aws-cdk.cx-api>=1.4.0
+aws-cdk.aws_codebuild>=1.4.0
+aws-cdk.aws_codepipeline>=1.4.0
+aws-cdk.aws_codepipeline_actions>=1.4.0
+aws-cdk.aws_iam>=1.4.0
+aws-cdk.aws_s3>=1.4.0
+aws-cdk.aws_servicecatalog>=1.4.0
+boto3>=1.9.208
